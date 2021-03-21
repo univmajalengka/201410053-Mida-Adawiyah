@@ -22,3 +22,4 @@ write ('Masukkan motto :');
 readln (motto);
 end.
 
+
