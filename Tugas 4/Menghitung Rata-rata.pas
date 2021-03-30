@@ -1,3 +1,7 @@
+{Nama : Mida Adawiyah}
+{NPM  : 20.14.1.0053 }
+{Nama Program : Menghitung Rata_rata.pas}
+
 Program menghitung rata-rata;
 uses crt;
 
