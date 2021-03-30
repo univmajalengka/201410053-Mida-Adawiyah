@@ -54,4 +54,5 @@ clrscr;
           writeln('gaji bersih  : RP. ',gaji_bersih:0:0);
 
         readln;
+        
         end.
